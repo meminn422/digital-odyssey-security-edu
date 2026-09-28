@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd7dfc9064071aa44a0ae03a85f06833, type: 3}
+  m_Name: SpeakerDB_Main
+  m_EditorClassIdentifier: 
+  speakers:
+  - id: MAI
+    spineData: {fileID: 11400000, guid: 9c9fd12e1352aec4294090184f9f3ddc, type: 2}
+    skin: 
+    anim: idle
+    loop: 1
+  - id: "\u6E56\u908A\u614C\u5F35\u7684\u5C45\u6C11"
+    spineData: {fileID: 11400000, guid: 332fecf76251d544eba351c8a3095ce2, type: 2}
+    skin: 
+    anim: blueidle
+    loop: 1
+  - id: "\u6E56\u908A\u64D4\u5FC3\u7684\u5C45\u6C11"
+    spineData: {fileID: 11400000, guid: 8eefde792f39a4f4da9fbc27dbbe815a, type: 2}
+    skin: 
+    anim: greenidle
+    loop: 1
+  - id: "\u8389\u4E9E"
+    spineData: {fileID: 11400000, guid: 02c81356d99f338469571d7933c39417, type: 2}
+    skin: 
+    anim: idle
+    loop: 1
+  - id: "\u81BD\u5927\u6A94"
+    spineData: {fileID: 11400000, guid: b6ac16697493c6c4b9e9665cce9905c1, type: 2}
+    skin: 
+    anim: idle
+    loop: 1
+  - id: "\u597D\u4FE1\u798F"
+    spineData: {fileID: 11400000, guid: b42fb6daeb238d348a0de1c0e4e9675f, type: 2}
+    skin: 
+    anim: idle
+    loop: 1
+  - id: "\u8CFC\u4FBF\u5B9C"
+    spineData: {fileID: 11400000, guid: 30c4f540168669248b6b026d94104e0f, type: 2}
+    skin: 
+    anim: idle
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_idle"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: 
+    anim: idle
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_win"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: 
+    anim: blackLiawin
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_lose"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: 
+    anim: blackLialose
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_idle2"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: 
+    anim: idle2
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_lose2"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: 
+    anim: blackLialose2
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_idle3"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: 
+    anim: idle3
+    loop: 1
+  - id: "\u9ED1\u8272\u5229\u4E9E_lose3"
+    spineData: {fileID: 11400000, guid: 70c7e94d8952717469a5e8a532797fdb, type: 2}
+    skin: blackLialose3
+    anim: idle3
+    loop: 1
+  - id: "\u7BA1\u7406\u54E1"
+    spineData: {fileID: 11400000, guid: 139eac217da8c3b458ce863ec97f507f, type: 2}
+    skin:
+    anim: guardidle
+    loop: 1

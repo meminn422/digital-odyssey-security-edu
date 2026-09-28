@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - MAI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Dimmer
+  - Water
+  - UI
+  - tools
+  - Player
+  - Enemy
+  - Hurtbox
+  - Hitbox
+  - Obstacle
+  - Background
+  - Characters
+  - Databug
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3294731543
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 2604660323
+    locked: 0
+  - name: Hurtbox
+    uniqueID: 4084718235
+    locked: 0
+  - name: Foreground
+    uniqueID: 321503911
+    locked: 0
+  - name: UI_Front
+    uniqueID: 2591417267
+    locked: 0
